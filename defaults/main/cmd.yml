@@ -1,0 +1,6 @@
+# catdoc command to execute to convert a .doc file to text
+catdoc_conv_doc_to_text_cmd: 'catdoc'
+
+# xls2csv command to execute to convert an .xls file to text
+xls2csv_conv_xls_to_text_cmd: 'xls2csv'
+

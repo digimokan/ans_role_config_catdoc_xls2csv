@@ -1,0 +1,3 @@
+- name: "Install main catdoc and xls2csv applications"
+  ansible.builtin.include_tasks: install/main.yml
+

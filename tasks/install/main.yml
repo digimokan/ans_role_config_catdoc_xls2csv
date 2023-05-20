@@ -1,0 +1,7 @@
+- name: "Install main 'catdoc' and 'xls2csv' packages"
+  ansible.builtin.package:
+    name: catdoc
+    state: present
+  become: true
+  become_user: root
+
