@@ -16,7 +16,8 @@ Install and configure the bundled catdoc/xls2cxv file-conversion utilities.
 
 ## Purpose
 
-* Install the [catdoc](https://github.com/petewarden/catdoc) MS-Word-Doc-To-Text utility.
+* Install the [catdoc](https://github.com/petewarden/catdoc) MS-Word-Doc-To-Text
+  and RTF-To-Text utility.
 * Install the [xls2cxv](https://github.com/northbright/xls2csv) MS-xls-To-Text utility.
 
 ## Supported Operating Systems

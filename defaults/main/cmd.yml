@@ -1,3 +1,6 @@
+# catdoc command to execute to convert an RTF file to text
+catdoc_conv_rtf_to_text_cmd: 'catdoc'
+
 # catdoc command to execute to convert a .doc file to text
 catdoc_conv_doc_to_text_cmd: 'catdoc'
 
