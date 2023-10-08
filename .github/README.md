@@ -55,7 +55,7 @@ Install and configure the bundled catdoc/xls2cxv file-conversion utilities.
        - name: "Install and configure the bundled catdoc/xls2cxv file-conversion utilities"
          ansible.builtin.include_role:
            name: ans_role_config_catdoc_xls2csv
-           public: yes
+           public: true
    ```
 
 ## Role Options
